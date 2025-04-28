@@ -6,7 +6,7 @@
 
 body::after {
     font-family: "Josefin Sans", sans-serif;
-    background: url(./images/back.jpeg) no-repeat center center/cover;
+    background: url(/back.jpeg) no-repeat center center/cover;
     color: white;
     height: 100%;
     content: "";
